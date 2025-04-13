@@ -1,6 +1,6 @@
 # Physics-Informed-Neural-Networks-for-Solving-2D-Wave-Equation
 
-# Physics-Informed Neural Network (PINN) for 2D Wave Equation
+ 
 
 This repository provides a simple implementation of a Physics-Informed Neural Network (PINN) designed to solve the 2D wave equation using deep learning. The model incorporates physical constraints directly into the loss function, allowing it to learn solutions that satisfy both data-driven and physics-based principles.
 
