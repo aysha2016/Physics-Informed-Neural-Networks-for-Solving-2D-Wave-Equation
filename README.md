@@ -14,15 +14,7 @@ This repository provides a simple implementation of a Physics-Informed Neural Ne
 
 ## Problem Overview
 
-The wave equation governs the propagation of waves, such as sound waves, light waves, and water waves. In 2D, it can be written as:
-
-\[
-\frac{\partial^2 u}{\partial t^2} = c^2 \left( \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} \right)
-\]
-
-Where:
-- \( u(x, y, t) \) is the wave function (e.g., displacement of the wave at coordinates \(x\) and \(y\) at time \(t\)),
-- \( c \) is the wave speed.
+The wave equation governs the propagation of waves, such as sound waves, light waves, and water waves. In 2D, 
 
 The PINN framework is designed to learn the wave's solution while respecting the physics of the wave equation.
 
