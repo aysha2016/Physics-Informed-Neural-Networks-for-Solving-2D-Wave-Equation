@@ -37,7 +37,7 @@ The implementation includes:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/PhysicsInformedPINN_2D_Wave.git
+git clone https://github.com/aysha2016/PhysicsInformedPINN_2D_Wave.git
 cd PhysicsInformedPINN_2D_Wave
 ```
 
